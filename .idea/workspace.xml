@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19fb0284-1825-474b-af55-d01aa742e6a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cz/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/interactive_objects/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/vobbilder/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/PB_DK.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background_alt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/border-horizontal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/border-no-corners.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/border-vertical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/close_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/en.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hero-artwork/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hero-artwork/first-plane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hero-artwork/smoke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icn_loading_animated-vflff1Mjj.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-language-cz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-language-de.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-language-en.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-language-es.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-language-hu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-language-it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-language-pl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-language-ro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-language-ru.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-language-sk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-language.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-moddb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-tm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-yt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image-hh-404-vflP3hqNT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/it.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loader-vflff1Mjj.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loader_large-vflin3vnt.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loader_material-vfl3KuxkB.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-horizontal-cz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-horizontal-en.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-horizontal-ge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-horizontal-it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-horizontal-ro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-horizontal-ru.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-horizontal-sk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-horizontal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo_horizontal-es.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo_horizontal-hu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo_small-vflHpzGZm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo_small_2x-vfl4_cFqn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo_youtube_red_2x-vflOSHA_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/meh7-vflGevej7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/meh7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ru.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/timedelay7-vfljunAOV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/www-backstage-vflrHB1Cx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/www-comments-vflfcmdXe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/www-consent-vflK9wUQU.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/www-gplusoptin-vfl-9mro9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/www-hitchhiker-vfllYIUv0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/www-search-vfl4yRBng.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/www-sharing-vflLiiVnv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/www-timeline-trimmer-vflgkwjP-.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/yt-miniature-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/yt_play_logo_2x-vflXx5Pg3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/it/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-2.1.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.mobile.custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/www-embed-player.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/www-notfound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/praca/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/KFOjCnqEu92Fr1Mu51S7ACc0CsE.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/KFOkCnqEu92Fr1Mu51xGIzc.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/KFOlCnqEu92Fr1MmEU9fChc9.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/KFOmCnqEu92Fr1Mu7GxP.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Lusitana-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Lusitana-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Lusitana-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Lusitana-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Lusitana-license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Lusitana.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hero-artwork.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/languages.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/mem5YaGs126MiZpBA-UNirkOUuhs.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/mem8YaGs126MiZpBA-UFVZ0e.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/social-media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/www-core-vflZ7bM6S.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/www-error-vflvD9R0Z.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/www-pageframe-vfljAAt_f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/www-player-vflibjWL-.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ro/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ru/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mq6gUyKrzukwAt9HXGCJfhIqZn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19fb0284-1825-474b-af55-d01aa742e6a3" name="Default Changelist" comment="" />
+      <created>1610208884506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610208884506</updated>
+      <workItem from="1610208885568" duration="641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
