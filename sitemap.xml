@@ -27,4 +27,5 @@
 <url> <loc>https://historyofkhorinis.org/sk/faq</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://historyofkhorinis.org/sk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://historyofkhorinis.org/sk/recruitment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://historyofkhorinis.org/praca/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
